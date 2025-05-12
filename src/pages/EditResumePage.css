@@ -1,0 +1,51 @@
+.edit-resume-container {
+    max-width: 900px;
+    margin: auto;
+    padding: 40px;
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.1);
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .edit-resume-container h2 {
+    text-align: center;
+    margin-bottom: 25px;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .edit-resume-container label {
+    display: block;
+    margin: 12px 0 6px;
+    color: #555;
+    font-weight: 500;
+  }
+  
+  .edit-resume-container input,
+  .edit-resume-container textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f7f7f7;
+    margin-bottom: 20px;
+    font-size: 16px;
+  }
+  
+  .edit-resume-container button {
+    width: 100%;
+    padding: 14px;
+    background-color: #2575fc;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .edit-resume-container button:hover {
+    background-color: #1a5bd0;
+  }
+  
